@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.feedhenry</groupId>
+  <artifactId>fh-android-sdk-parent</artifactId>
+  <version>2.4.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150923.221111</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20150923221111</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.4.0-20150923.221111-1</value>
+        <updated>20150923221111</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
