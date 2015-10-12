@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 07 09:47:38 EDT 2015
+https\://maven.repository.redhat.com/earlyaccess/all/.lastUpdated=1444225658700
+https\://maven.repository.redhat.com/techpreview/all/.error=
+https\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+https\://maven.repository.redhat.com/techpreview/all/.lastUpdated=1444225658526
+https\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1444225658913
+http\://repo.gradle.org/gradle/libs-releases-local/.error=Could not transfer artifact com.feedhenry\:fh-android-sdk\:aar\:3.0.0-SNAPSHOT from/to gradle (http\://repo.gradle.org/gradle/libs-releases-local)\: Failed to transfer file\: http\://repo.gradle.org/gradle/libs-releases-local/com/feedhenry/fh-android-sdk/3.0.0-SNAPSHOT/fh-android-sdk-3.0.0-SNAPSHOT.aar. Return code is\: 409 , ReasonPhrase\:Conflict.
+https\://maven.repository.redhat.com/earlyaccess/all/.error=
+@default-gradle-http\://repo.gradle.org/gradle/libs-releases-local/.lastUpdated=1444225658979
